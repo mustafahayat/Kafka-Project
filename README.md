@@ -41,9 +41,9 @@ Kafka Mostly used Commends are:
 
 
 
-Other commends:
+# Other commends:
 
-   #   To Reset the Offset or to clear the cluster we use the below Commend:
+      To Reset the Offset or to clear the cluster we use the below Commend:
 #       Commend:
             kafka-consumer-groups --bootstrap-server localhost:9092 --group first-app --reset-offsets --execute --to-earliest --topic topicName
         Example:
@@ -51,40 +51,40 @@ Other commends:
 
 
 
-Start Elastic Search:
-    First:
+# Start Elastic Search:
+   # First:
         Download the elastic search from it's own website
             (download the zip file)
         Place and extract the zip file in the main directory like so:
             C:\elasticsearch
         The set the environment variable to :
             C:\elasticsearch\elasticsearch-7.10.1\bin
-    Second:
+#    Second:
         To start Elastic search i have set the Environment variable
           just open the CMD and write elasticsearch
           this will start the service in the posrt of 9200
-#     #   Open in the browser:
+        Open in the browser:
           http://localhost:9200
 
         Use this address in Postman API
- #   #      Create topic:
+           Create topic:
             http://localhost:9200/Topic_Name
-   #       Create type in the topic:
+          Create type in the topic:
             http://localhost:9200/Topic_Name/Topic_Type/id
 
 
 
 
-Work With MongoDB:
-    First:
+# Work With MongoDB:
+#    First:
         Download the MongoDB from website:
             (download the msi file and install as default)
         Create the like below directory because the MongoDB will automatically
-   #     detect this directory:
+        detect this directory:
             C:\data\db\
-  #              (mean create data and then db folder)
+                (mean create data and then db folder)
 
-    Second:
+#    Second:
         To start the MongoDB
             Move to the following directory from CMD:
                 C:\Program Files\MongoDB\Server\4.4\bin
