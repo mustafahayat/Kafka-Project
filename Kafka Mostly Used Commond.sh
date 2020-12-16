@@ -1,7 +1,3 @@
-# Kafka-Project
-To   learn Kafka and build real time data streaming application 
-
-
  Kafka Mostly used Commends are:
   All these commends should be run in cmd
   in separate tabs (mean this is the required commends)
