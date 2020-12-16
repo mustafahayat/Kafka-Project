@@ -5,7 +5,7 @@ To   learn Kafka and build real time data streaming application
 # the Kafka basics like Producer, consumer and Kafka Twitter producer is in the Kafka basic branch.
 
 
-Kafka Mostly used Commends are:
+# Kafka Mostly used Commends are:
   All these commends should be run in cmd
   in separate tabs (mean this is the required commends)
 
@@ -50,7 +50,7 @@ Kafka Mostly used Commends are:
 
 
 
-# Start Elastic Search:
+# Work with Elastic Search:
    # First:
         Download the elastic search from it's own website
             (download the zip file)
