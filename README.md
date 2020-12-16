@@ -1,9 +1,8 @@
 # Kafka-Project
 To   learn Kafka and build real time data streaming application 
 
-The source code of the project is divided into different branches, 
-check them out and download it.
-
+# The source code of the project is divided into different branches, check them out and download it.
+# the Kafka basics like Producer, consumer and Kafka Twitter producer is in the Kafka basic branch.
 
 
 Kafka Mostly used Commends are:
